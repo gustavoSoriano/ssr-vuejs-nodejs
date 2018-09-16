@@ -2,9 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import Vuex from 'vuex'
 import router from './router'
-import AtUI from 'at-ui'
 
-Vue.use(AtUI)
 Vue.use(Vuex)
 
 import VuexStore from './store'
