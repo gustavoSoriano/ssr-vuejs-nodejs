@@ -1,22 +1,22 @@
-# ssr-vuejs-nodejs
+# Server side rendering with Vuejs and Node.js
 Ssr vue com nodejs
 
-### Desenvolvimento
+### Development
 ```
   npm run dev
 ```
 
-### Build sem ssr
+### Build without  server side rendering
 ```
   npm run build
 ```
 
-### Build com node e ssr
+### Build with node and server side rendering
 ```
   npm run build-server
 ```
   
-### Em produção
+### In production
 ```
   npm start
 ```
