@@ -1,5 +1,5 @@
 # Server side rendering with Vuejs and Node.js
-Ssr vue com nodejs
+Implementation of vue-server-renderer with Node.js and vuejs
 
 ### Development
 ```
