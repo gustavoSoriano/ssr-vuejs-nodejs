@@ -1,6 +1,8 @@
 # Server side rendering with Vuejs and Node.js
 Implementation of vue-server-renderer with Node.js and vuejs
 
+Available in [awesome-vue](https://github.com/vuejs/awesome-vue/blob/master/README.md) 
+
 ### Development
 ```
   npm run dev
